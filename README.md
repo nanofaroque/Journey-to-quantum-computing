@@ -4,4 +4,6 @@
 
 ## Basic Math
 1. Ferris Wheel: https://www.youtube.com/watch?v=OfuyQV4SN9c&ab_channel=Learnability
-2. 
+
+## Why hilbert space and why it is needed? 
+1. https://youtu.be/_kJUUxjJ_FY?si=8PKHP7XTB_DXNxmu
